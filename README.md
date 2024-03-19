@@ -9,6 +9,7 @@ Community Repositories
 |  bd_    |   bd_   |  https://vpm.nadena.dev/vpm.json    |      |
 |  CyanTrigger VCC Listing    |  CyanLaser    |  https://cyanlaser.github.io/CyanTrigger/index.json    |      |
 |  d4rkpl4y3r    |  d4rkpl4y3r    | https://d4rkc0d3r.github.io/vpm-repos/main.json     |      |
+|  Explosive Theorem Lab. Metaverse Division    |  Jeremy Lam aka. Vistanz    | https://xtlcdn.github.io/vpm/index.json     |      |
 |  kurotu    |  kurotu    | https://kurotu.github.io/vpm-repos/vpm.json     |      |
 |   Narazaka VPM Listing   |  Narazaka    | https://vpm.narazaka.net/index.json     |      |
 |  nekomimiStudio VPM Repo    | mewl hayabusa     |  https://vpm.nekomimi.studio/index.json    |      |
@@ -21,4 +22,3 @@ Community Repositories
 |  VR Stage Lighting    | AcChosen     |   https://vpm.vrsl.dev/index.json   |      |
 |  Vrlabs    |  Vrlabs    | https://vrlabs.dev/packages/     |      |
 |  z3y's packages    |  z3y    | https://z3y.github.io/vpm-package-listing/index.json     |      |
-
