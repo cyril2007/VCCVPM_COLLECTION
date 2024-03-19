@@ -24,4 +24,4 @@ vcc://vpm/addRepo?url=
 |  The 53 Labs vpm    |  Sonic853    |   https://page.853lab.com/vpm.json   |    [ADD](vcc://vpm/addRepo?url=https://page.853lab.com/vpm.json)    |
 |  VR Stage Lighting    | AcChosen     |   https://vpm.vrsl.dev/index.json   |   [ADD](vcc://vpm/addRepo?url=https://vpm.vrsl.dev/index.json)     |
 |  Vrlabs    |  Vrlabs    | https://vrlabs.dev/packages/     |        |
-|  z3y's packages    |  z3y    | https://z3y.github.io/vpm-package-listing/index.json     |   [ADD](vcc://vpm/addRepo?url=https://z3y.github.io/vpm-package-listing/index.json)     |
+|  z3y's packages    |  z3y    | https://z3y.github.io/vpm-package-listing/index.json     |   [ADD](vcc://vpm/addRepo?url=https://z3y.github.io/vpm-package-listing/index.json)     | 
