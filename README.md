@@ -18,6 +18,7 @@ vcc://vpm/addRepo?url=
 |   Narazaka VPM Listing   |  Narazaka    | https://vpm.narazaka.net/index.json     |    [ADD](vcc://vpm/addRepo?url=https://vpm.narazaka.net/index.json)    |
 |  nekomimiStudio VPM Repo    | mewl hayabusa     |  https://vpm.nekomimi.studio/index.json    |   [ADD](vcc://vpm/addRepo?url=https://vpm.nekomimi.studio/index.json)     |
 |  ni rila    |  ni rila    | http://vpm.niri.la/vpm.json     |   [ADD](vcc://vpm/addRepo?url=http://vpm.niri.la/vpm.json)     |
+|  orels-Unity-Shaders    |  ORELS1    | https://orels1.github.io/orels-Unity-Shaders/index.json     |   [ADD](vcc://vpm/addRepo?url=https://orels1.github.io/orels-Unity-Shaders/index.json)     |
 |  Poiyomi Toon Shader    |  Poiyomi    | https://poiyomi.github.io/vpm/index.json     |   [ADD](vcc://vpm/addRepo?url=https://poiyomi.github.io/vpm/index.json)     |
 |  Pokeyi's Udon Tools    |  Pokeyi    |  https://pokeyi.dev/vpm-packages/index.json    |  [ADD](vcc://vpm/addRepo?url=https://pokeyi.dev/vpm-packages/index.json)      |
 | Pumkin's VPM Repo     | Pumkin     |  https://rurre.github.io/vpm/index.json    | [ADD](vcc://vpm/addRepo?url=https://rurre.github.io/vpm/index.json)       |
