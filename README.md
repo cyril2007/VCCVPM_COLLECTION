@@ -2,12 +2,13 @@
  VCCVPM收集库（VrchatCreatorCompanion Community Repositories）
 
 Community Repositories
-个人收集
+个人收集 打造你的完全体VCC
 
 vcc://vpm/addRepo?url=
 
 | 名称 | 作者 | 链接 | 备注 |
 | :---: | :---: | :---: | :---: |
+|  _pi_'s funky fresh VPM repository    |  _pi_    | https://vpm.pimaker.at/index.json     |   [ADD](vcc://vpm/addRepo?url=https://vpm.pimaker.at/index.json)     |
 |  ArchiTech Assets    |  ArchiTechVR    | https://vpm.techanon.dev/index.json     |   [ADD](vcc://vpm/addRepo?url=https://vpm.techanon.dev/index.json)     |
 |  bd_    |   bd_   |  https://vpm.nadena.dev/vpm.json    |  [ADD](vcc://vpm/addRepo?url=https://vpm.nadena.dev/vpm.json)    |
 |  CyanTrigger VCC Listing    |  CyanLaser    |  https://cyanlaser.github.io/CyanTrigger/index.json    |  [ADD](vcc://vpm/addRepo?url=https://cyanlaser.github.io/CyanTrigger/index.json)    |
