@@ -29,4 +29,5 @@ vcc://vpm/addRepo?url=
 |  VR Stage Lighting    | AcChosen     |   https://vpm.vrsl.dev/index.json   |   [ADD](vcc://vpm/addRepo?url=https://vpm.vrsl.dev/index.json)     |
 |  VRCFury    |  Vrcfury    | https://vcc.vrcfury.com     |   [ADD](vcc://vpm/addRepo?url=https%3A%2F%2Fvcc.vrcfury.com)     |
 |  Vrlabs    |  Vrlabs    | https://vrlabs.dev/packages/     |        |
+|  VRsuya    |  VRsuya    | https://server.macchiato.kr/vpm/vpm.json     |   [ADD](vcc://vpm/addRepo?url=https://server.macchiato.kr/vpm/vpm.json)     |
 |  z3y's packages    |  z3y    | https://z3y.github.io/vpm-package-listing/index.json     |   [ADD](vcc://vpm/addRepo?url=https://z3y.github.io/vpm-package-listing/index.json)     |
