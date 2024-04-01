@@ -9,6 +9,7 @@ vcc://vpm/addRepo?url=
 | 名称 | 作者 | 链接 | 备注 |
 | :---: | :---: | :---: | :---: |
 |  _pi_'s funky fresh VPM repository    |  _pi_    | https://vpm.pimaker.at/index.json     |   [ADD](vcc://vpm/addRepo?url=https://vpm.pimaker.at/index.json)     |
+|  活动日历    |  mmyo456    | https://mmyo456.github.io/events-calendar/index.json     |   [ADD](vcc://vpm/addRepo?url=https://mmyo456.github.io/events-calendar/index.json)     |
 |  anatawa12    |  anatawa12   | https://adjerry91.github.io/VRCFaceTracking-Templates/index.json     |   [ADD](vcc://vpm/addRepo?url=https://adjerry91.github.io/VRCFaceTracking-Templates/index.json)     |
 |  ArchiTech Assets    |  ArchiTechVR    | https://vpm.techanon.dev/index.json     |   [ADD](vcc://vpm/addRepo?url=https://vpm.techanon.dev/index.json)     |
 |  bd_    |   bd_   |  https://vpm.nadena.dev/vpm.json    |  [ADD](vcc://vpm/addRepo?url=https://vpm.nadena.dev/vpm.json)    |
@@ -39,5 +40,4 @@ vcc://vpm/addRepo?url=
 |  VRsuya    |  VRsuya    | https://server.macchiato.kr/vpm/vpm.json     |   [ADD](vcc://vpm/addRepo?url=https://server.macchiato.kr/vpm/vpm.json)     |
 |  Yagihata    |  Yagihata   |https://www.negura-karasu.net/vpm/     |   [ADD](vcc://vpm/addRepo?url=https://www.negura-karasu.net/vpm/)     |
 |  z3y's packages    |  z3y    | https://z3y.github.io/vpm-package-listing/index.json     |   [ADD](vcc://vpm/addRepo?url=https://z3y.github.io/vpm-package-listing/index.json)     |
-
 
