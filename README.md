@@ -10,7 +10,7 @@ vcc://vpm/addRepo?url=
 | :---: | :---: | :---: | :---: |
 |  _pi_'s funky fresh VPM repository    |  _pi_    | https://vpm.pimaker.at/index.json     |   [ADD](vcc://vpm/addRepo?url=https://vpm.pimaker.at/index.json)     |
 |  活动日历    |  mmyo456    | https://mmyo456.github.io/events-calendar/index.json     |   [ADD](vcc://vpm/addRepo?url=https://mmyo456.github.io/events-calendar/index.json)     |
-|  anatawa12    |  anatawa12   | https://adjerry91.github.io/VRCFaceTracking-Templates/index.json     |   [ADD](vcc://vpm/addRepo?url=https://adjerry91.github.io/VRCFaceTracking-Templates/index.json)     |
+|  anatawa12    |  anatawa12   | https://vpm.anatawa12.com/vpm.json     |   [ADD](vcc://vpm/addRepo?url=https://vpm.anatawa12.com/vpm.json)     |
 |  ArchiTech Assets    |  ArchiTechVR    | https://vpm.techanon.dev/index.json     |   [ADD](vcc://vpm/addRepo?url=https://vpm.techanon.dev/index.json)     |
 |  Azukimochi    |  Azukimochi    | https://azukimochi.github.io/vpm-repos/index.json     |   [ADD](vcc://vpm/addRepo?url=https://azukimochi.github.io/vpm-repos/index.json)     |
 |  bd_    |   bd_   |  https://vpm.nadena.dev/vpm.json    |  [ADD](vcc://vpm/addRepo?url=https://vpm.nadena.dev/vpm.json)    |
