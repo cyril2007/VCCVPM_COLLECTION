@@ -12,6 +12,7 @@ vcc://vpm/addRepo?url=
 |  活动日历    |  mmyo456    | https://mmyo456.github.io/events-calendar/index.json     |   [ADD](vcc://vpm/addRepo?url=https://mmyo456.github.io/events-calendar/index.json)     |
 |  anatawa12    |  anatawa12   | https://adjerry91.github.io/VRCFaceTracking-Templates/index.json     |   [ADD](vcc://vpm/addRepo?url=https://adjerry91.github.io/VRCFaceTracking-Templates/index.json)     |
 |  ArchiTech Assets    |  ArchiTechVR    | https://vpm.techanon.dev/index.json     |   [ADD](vcc://vpm/addRepo?url=https://vpm.techanon.dev/index.json)     |
+|  Azukimochi    |  Azukimochi    | https://azukimochi.github.io/vpm-repos/index.json     |   [ADD](vcc://vpm/addRepo?url=https://azukimochi.github.io/vpm-repos/index.json)     |
 |  bd_    |   bd_   |  https://vpm.nadena.dev/vpm.json    |  [ADD](vcc://vpm/addRepo?url=https://vpm.nadena.dev/vpm.json)    |
 |  CyanTrigger VCC Listing    |  CyanLaser    |  https://cyanlaser.github.io/CyanTrigger/index.json    |  [ADD](vcc://vpm/addRepo?url=https://cyanlaser.github.io/CyanTrigger/index.json)    |
 |  d4rkpl4y3r    |  d4rkpl4y3r    | https://d4rkc0d3r.github.io/vpm-repos/main.json     |   [ADD](vcc://vpm/addRepo?url=https://d4rkc0d3r.github.io/vpm-repos/main.json)     |
