@@ -15,6 +15,7 @@ vcc://vpm/addRepo?url=
 |  bd_    |   bd_   |  https://vpm.nadena.dev/vpm.json    |  [ADD](vcc://vpm/addRepo?url=https://vpm.nadena.dev/vpm.json)    |
 |  CyanTrigger VCC Listing    |  CyanLaser    |  https://cyanlaser.github.io/CyanTrigger/index.json    |  [ADD](vcc://vpm/addRepo?url=https://cyanlaser.github.io/CyanTrigger/index.json)    |
 |  d4rkpl4y3r    |  d4rkpl4y3r    | https://d4rkc0d3r.github.io/vpm-repos/main.json     |   [ADD](vcc://vpm/addRepo?url=https://d4rkc0d3r.github.io/vpm-repos/main.json)     |
+|  Easy Avatar Uplaoder    |  USLOG    | https://project-eauploader.github.io/EAUploader-for-VRChat/registry.json     |   [ADD](vcc://vpm/addRepo?url=https://project-eauploader.github.io/EAUploader-for-VRChat/registry.json)     |
 |  Explosive Theorem Lab. Metaverse Division    |  Jeremy Lam aka. Vistanz    | https://xtlcdn.github.io/vpm/index.json     |   [ADD](vcc://vpm/addRepo?url=https://xtlcdn.github.io/vpm/index.json)     |
 |  Guribo's VPM Listing    | Guribo   |https://Guribo.github.io/TLP/index.json     |   [ADD](vcc://vpm/addRepo?url=https://Guribo.github.io/TLP/index.json)     |
 |  gyokute    | gyokute   |https://vpm.gyoku.tech/vpm.json     |   [ADD](vcc://vpm/addRepo?url=https://vpm.gyoku.tech/vpm.json)     |
@@ -40,4 +41,3 @@ vcc://vpm/addRepo?url=
 |  VRsuya    |  VRsuya    | https://server.macchiato.kr/vpm/vpm.json     |   [ADD](vcc://vpm/addRepo?url=https://server.macchiato.kr/vpm/vpm.json)     |
 |  Yagihata    |  Yagihata   |https://www.negura-karasu.net/vpm/     |   [ADD](vcc://vpm/addRepo?url=https://www.negura-karasu.net/vpm/)     |
 |  z3y's packages    |  z3y    | https://z3y.github.io/vpm-package-listing/index.json     |   [ADD](vcc://vpm/addRepo?url=https://z3y.github.io/vpm-package-listing/index.json)     |
-
